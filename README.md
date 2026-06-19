@@ -1,7 +1,3 @@
-# Crowdfunding-Campaign-Analysis
-Analyzed crowdfunding campaign data using Excel, MySQL, and Power BI to identify funding trends, campaign success rates, category performance, and key business insights.
-# Crowdfunding Campaign Analysis
-
 ## Project Overview
 This project analyzes crowdfunding campaign data to identify factors influencing campaign success and funding performance.
 
@@ -9,6 +5,8 @@ This project analyzes crowdfunding campaign data to identify factors influencing
 - Excel
 - MySQL
 - Power BI
+- Tableau
+- Power query
 
 ## Key KPIs
 - Total Campaigns
